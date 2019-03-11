@@ -14,7 +14,7 @@ Nas pastas feature/android/report e feature/ios/report você encontrará os prin
 
 ```ruby
 1. Faça um clone do projeto:
-   git clone https://gitlab.com/Thialison/Appium-Youse.git
+  
 
 2. Emulando android virtual device: 
    emulator @"<Nome do seu emulator>"&
