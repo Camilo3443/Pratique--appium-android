@@ -1,0 +1,6 @@
+[caps]
+deviceName =  "MotoG"
+platformName = "Android"
+app = "~/Users/luis.camilo/Documents/Camilo/Appium-Youse/features/android/app/YouseQA.apk"
+
+appPackage = "test.qa.youse.com.qatest"
